@@ -1,0 +1,6 @@
+git clone https://github.com/<ton-compte>/cc-sounds.git
+cd cc-sounds
+cp "C:\Users\evanc\Downloads\OK, Garmin Sound Effect.dfpwm" .
+git add .
+git commit -m "Ajout du son réacteur"
+git push
